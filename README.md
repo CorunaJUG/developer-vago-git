@@ -1,3 +1,3 @@
 # developer-vago-git-test
 
-Test CoruñaJUG
+Test CoruñaJUG2
